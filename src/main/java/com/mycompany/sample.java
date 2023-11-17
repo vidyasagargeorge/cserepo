@@ -1,7 +1,7 @@
 package com.mycompany;
 
-public  class Hellpoworld {
+public  class Helloworld {
     public static void main(string[] args){
-        system.out.println("This is my first Hello program");
+        system.out.println("Good morining guys");
     }
 }
